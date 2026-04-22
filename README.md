@@ -1,4 +1,4 @@
-# AI Systems Outperform Humans in Fraud Detection and Resistance to Motivated Investor Pressure
+# Large Language Models Outperform Humans in Fraud Detection and Resistance to Motivated Investor Pressure
 
 ## Overview
 
@@ -184,7 +184,7 @@ All deviations from the pre-registered analysis plan are documented in Table S1 
 
 If you use this code or data, please cite:
 
-> Powdthavee, N. (2026). *AI Systems Outperform Humans in Fraud Detection and Resistance to Motivated Investor Pressure.* [Journal]. DOI: [to be added upon publication]
+> Powdthavee, N. (2026). *Large Language Models Outperform Humans in Fraud Detection and Resistance to Motivated Investor Pressure.* [Journal]. DOI: [to be added upon publication]
 
 ---
 
