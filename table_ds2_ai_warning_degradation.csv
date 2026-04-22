@@ -1,0 +1,15 @@
+Model,Condition,N,Mean degradation,SD,95% CI lower,95% CI upper
+Claude Sonnet,Neutral,120,-0.117,0.347,-0.179,-0.054
+Claude Sonnet,Motivated,120,-0.075,0.264,-0.122,-0.028
+GPT-4o,Neutral,120,0.6,0.834,0.451,0.749
+GPT-4o,Motivated,120,0.433,0.645,0.318,0.549
+GPT-4o mini,Neutral,120,2.392,1.007,2.212,2.572
+GPT-4o mini,Motivated,120,2.275,0.925,2.109,2.441
+Gemini 2.5 Flash,Neutral,120,-0.2,0.836,-0.35,-0.05
+Gemini 2.5 Flash,Motivated,120,-0.283,1.055,-0.472,-0.095
+DeepSeek V3,Neutral,120,0.1,0.438,0.022,0.178
+DeepSeek V3,Motivated,120,0.008,0.304,-0.046,0.063
+Llama 3.3 70B,Neutral,120,0.917,1.042,0.73,1.103
+Llama 3.3 70B,Motivated,120,0.658,0.835,0.509,0.808
+Grok 3,Neutral,120,0.058,0.436,-0.02,0.136
+Grok 3,Motivated,120,0.192,0.49,0.104,0.279

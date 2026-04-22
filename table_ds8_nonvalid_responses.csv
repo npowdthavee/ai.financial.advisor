@@ -1,0 +1,7 @@
+Band,Condition,N,Non-valid rate,95% CI lower,95% CI upper,n valid,n off_topic,n too_short,n no_assessment,n gibberish
+Band 1,Neutral,100,0.28,0.192,0.368,72,15,6,7,0
+Band 1,Motivated,102,0.255,0.17,0.339,76,13,3,10,0
+Band 2,Neutral,94,0.234,0.148,0.32,72,14,5,3,0
+Band 2,Motivated,97,0.227,0.143,0.31,75,11,3,8,0
+Band 3,Neutral,94,0.404,0.305,0.503,56,24,3,11,0
+Band 3,Motivated,89,0.337,0.239,0.435,59,15,4,11,0

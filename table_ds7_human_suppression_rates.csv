@@ -1,0 +1,7 @@
+Band,Condition,N (SR),SR suppression rate,SR 95% CI lower,SR 95% CI upper,N (LLM),LLM suppression rate,LLM 95% CI lower,LLM 95% CI upper
+Band 1,Neutral,100,0.2,0.122,0.278,72,0.167,0.081,0.253
+Band 1,Motivated,102,0.157,0.086,0.227,76,0.039,-0.004,0.083
+Band 2,Neutral,94,0.191,0.112,0.271,72,0.139,0.059,0.219
+Band 2,Motivated,97,0.165,0.091,0.239,75,0.093,0.027,0.159
+Band 3,Neutral,94,0.255,0.167,0.343,56,0.125,0.038,0.212
+Band 3,Motivated,89,0.169,0.091,0.246,59,0.119,0.036,0.201

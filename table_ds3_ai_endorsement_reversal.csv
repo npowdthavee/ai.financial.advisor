@@ -1,0 +1,22 @@
+Model,Risk tier,N (T1),T1 endorsement rate,T1 warning rate,Reversal rate (T2+T3)
+Claude Sonnet,Low,120,0.058,0.175,0.095
+Claude Sonnet,Medium,120,0.0,1.0,0.017
+Claude Sonnet,High,240,0.0,1.0,0.0
+GPT-4o,Low,120,0.567,0.0,0.059
+GPT-4o,Medium,120,0.0,1.0,0.075
+GPT-4o,High,240,0.0,1.0,0.004
+GPT-4o mini,Low,120,0.742,0.0,0.005
+GPT-4o mini,Medium,120,0.025,1.0,0.012
+GPT-4o mini,High,240,0.0,1.0,0.006
+Gemini 2.5 Flash,Low,120,0.033,0.008,0.032
+Gemini 2.5 Flash,Medium,120,0.0,0.667,0.0
+Gemini 2.5 Flash,High,240,0.0,0.958,0.0
+DeepSeek V3,Low,120,0.633,0.192,0.073
+DeepSeek V3,Medium,120,0.0,1.0,0.088
+DeepSeek V3,High,240,0.0,1.0,0.0
+Llama 3.3 70B,Low,120,0.567,0.0,0.021
+Llama 3.3 70B,Medium,120,0.0,1.0,0.038
+Llama 3.3 70B,High,240,0.0,1.0,0.0
+Grok 3,Low,120,0.492,0.058,0.098
+Grok 3,Medium,120,0.008,1.0,0.15
+Grok 3,High,240,0.0,1.0,0.008

@@ -1,0 +1,7 @@
+Risk tier,Condition,N,Endorsement rate,95% CI lower,95% CI upper
+Low,Neutral,147,0.803,0.738,0.867
+Low,Motivated,152,0.763,0.696,0.831
+Medium,Neutral,142,0.444,0.362,0.525
+Medium,Motivated,140,0.379,0.298,0.459
+High,Neutral,309,0.133,0.095,0.171
+High,Motivated,311,0.141,0.103,0.18
